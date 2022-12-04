@@ -1,0 +1,15 @@
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/bin/Debug/net6.0/Final1
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/bin/Debug/net6.0/Final1.deps.json
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/bin/Debug/net6.0/Final1.runtimeconfig.json
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/bin/Debug/net6.0/Final1.dll
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/bin/Debug/net6.0/Final1.pdb
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/Final1.csproj.AssemblyReference.cache
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/Final1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/Final1.AssemblyInfoInputs.cache
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/Final1.AssemblyInfo.cs
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/Final1.csproj.CoreCompileInputs.cache
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/Final1.dll
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/refint/Final1.dll
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/Final1.pdb
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/Final1.genruntimeconfig.cache
+/Users/denisblohin/Desktop/Lesson new/Final1/Final1/obj/Debug/net6.0/ref/Final1.dll
